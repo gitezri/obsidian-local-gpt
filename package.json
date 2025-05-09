@@ -40,6 +40,6 @@
 	"dependencies": {
 		"idb": "^8.0.0",
 		"langchain": "^0.0.200",
-		"pdfjs-dist": "^4.6.82"
+		"pdfjs-dist": "^4.10.38"
 	}
 }
